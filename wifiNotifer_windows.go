@@ -11,7 +11,7 @@ package wifiNotifier
 
 #include <windows.h>
 #include <wlanapi.h>
-#include <Windot11.h>           // for DOT11_SSID struct
+#include <windot11.h>           // for DOT11_SSID struct
 #include <objbase.h>
 #include <wtypes.h>
 
